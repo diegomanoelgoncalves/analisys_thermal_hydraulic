@@ -26,9 +26,9 @@ provided by the power density can provide us with the temperature profile in the
 
 ## Features
 
-The linear power density [W/cm] is calculated unidimensionally along the axial length, based on the detection results of the pin reaction rate.
+The code calculated unidimensionally along the axial length, based on the detection results of the pin reaction rate in hot channel.
 
-- Power Density[W/cm^2]
+- Power Density[W/cm]
 - Peak factor[-]
 - Entalpy[kj/kg]
 - Pressure[MPa]
@@ -36,8 +36,30 @@ The linear power density [W/cm] is calculated unidimensionally along the axial l
 - DNB-Correlation W3 nonuniform
 - DNB-Correlation W3 uniform
 - DNB-Correlation Bowring
-- Heat Flux [MW/m²]
+- Heat Flux-Correlation W3 uniform[MW/m²]
+- Heat Flux-Correlation W3 nonuniform[MW/m²]
+- Heat Flux-Correlation Bowring[MW/m²]
 - Temperature [degree K]
+- Dimensions[m]
+- Mass rate core[kg/s]
+- Area assembly[m^2]
+- Flowrate assembly[kg/m^2s]
+- Mass rate channel[kg/s]
+- Area channel[m^2]
+- Subchannel flow rate[kg/m^2s]
+- Average linear heat rate[W/m]
+- Wetted perimeter
+- Equivalent_diameter or diameter hydraulic
+- Viscosity dynamic
+- Thermal Capacity
+- Density fluid
+- Temperature Coolant
+- Viscosity dynamic
+- Reynolds
+- Prandlt
+- Correlation Dittus-Boelter 
+- Correlation Gnielinski 
+- Convection fluid
 
 ## Instalation
 
@@ -78,8 +100,7 @@ The linear power density [W/cm] is calculated unidimensionally along the axial l
 ```
 ## Stack used
 
-**Back-end:** MATLAB2015 +, ANSI-C, SERPENT.VTT
-
+MATLAB2015 +, ANSI-C, SERPENT.VTT
 
 ## Demonstration
 - Example of calculation fuel assembly NuScale 4.35 enrichment U-235.
