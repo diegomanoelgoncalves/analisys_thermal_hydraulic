@@ -16,8 +16,6 @@ provided by the power density can provide us with the temperature profile in the
 
  - [MATLAB]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://www.mathworks.com/products/matlab.html)
 
- - [Calculation of power density with MCNP in TRIGA](https://www.researchgate.net/publication/266461075_POWER_AND_NEUTRON_FLUX_CALCULATION_FOR_THE_PUSPATI_TRIGA_REACTOR_USING_MCNP#:~:text=This%20study%20deals%20with%20the%20calculation%20of%20neutron,full%20model%20of%20the%20TRIGA%20core%20and%20fuels.)
-
  - [Feasibility to Convert the NuScale SMR from UO2 to a Mixed (U, Th)O2 Core](https://www.scirp.org/journal/paperinformation.aspx?paperid=124163)
 
 ## Authors
