@@ -86,7 +86,32 @@ The code calculated unidimensionally along the axial length, based on the detect
 ```bash
  run [filename]
 ```
-- Read input filename with parameters design [filename.det] and Run
+## Read input filename with parameters design project fuel assembly
+- number of pins variable [number_pin]
+- number of assembly variable [number_assembly]
+- number of tube guide variable [number_tg]
+- number of rods variable [number_rods]
+- radius tube variable [radius_tube]
+- thickness gap variable [thickness_gap]
+- thickness clad variable [thickness_clad]
+- thickness oxidus variable [thickness_oxidus]
+- radius of fuel variable [radius_fuel]
+- pitch of assembly variable [pitch]
+- mass of rate variable [mass_rate]
+- Temperature at moderator input variable [Tm_in]
+- Temperature at moderator output variable [Tm_in]
+- temperature fuel variable [Temperature_fuel]
+- diameter equivalent variable [eq_diameter]
+- pressure in variable [Pressure_in]
+- percentage of refrigerant loss in the element variable [percent_down_mass]
+- core length variable [core_length]
+- core_bypass=5/100;%8.5%[%]
+- thermal conductivity fuel [K_fuel]
+- thermal conductivity in cladd [K_clad]
+- convection in gap [H_gap]
+- conductivity in clad oxidus [K_oxidus]
+- channel width [channel_width]
+- total core power [core_power]
 ```bash
  run [filename]
 ```
