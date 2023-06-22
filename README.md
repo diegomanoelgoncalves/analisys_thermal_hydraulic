@@ -137,7 +137,7 @@ MATLAB2015 +, ANSI-C, SERPENT.VTT
 
 - [Power Density](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/blob/thermal-hydraulic/power_density_nuscale.png)
 
-- [Pressure-MPa](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/blob/thermal-hydraulic/power_density_nuscale.png)
+- [Pressure-MPa](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/blob/thermal-hydraulic/pressure_nuscale.png)
 
 - [Peak Factor](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/blob/thermal-hydraulic/peak_factor.png)
 
