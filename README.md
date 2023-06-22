@@ -66,7 +66,7 @@ The code calculated unidimensionally along the axial length, based on the detect
     
 ## Running the tests
 - Open MATLAB 2015 or greater
-- Read [filename.det] and Run
+- Read detector definitions from SERPENT [filename.det] in MATLAB
 ```bash
  run [filename].det.m
 ```
