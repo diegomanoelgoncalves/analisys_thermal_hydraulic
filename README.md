@@ -149,7 +149,7 @@ MATLAB2015 +, ANSI-C, SERPENT.VTT
 ![entalpy](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/assets/114114828/bd5e363d-baaa-4380-84f4-8eb55324dfbc)
 
 - [Quality-%](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/blob/thermal-hydraulic/quality.png)
-![quality](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/assets/114114828/37066a8d-0d8b-42fd-9c0d-f4ecd4a78081)
+![quality](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/assets/114114828/d3e6727e-69e2-4a23-ade1-046b72fcac4e)
 
 - [DNB-](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/blob/thermal-hydraulic/dnb.png)
 ![dnb](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/assets/114114828/b1a8ba7f-94ba-4b18-9586-a3a4953104dc)
