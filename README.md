@@ -135,7 +135,7 @@ MATLAB2015 +, ANSI-C, SERPENT.VTT
 ### Example of calculation fuel assembly NuScale 4.35 enrichment U-235.
 - [Model Fuel Assembly](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/blob/main/Example_model.png)
 
-- [Power Density]
+- [Power Density](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/blob/thermal-hydraulic/power_density_nuscale.png)
 
 - [Pressure-MPa]
 
