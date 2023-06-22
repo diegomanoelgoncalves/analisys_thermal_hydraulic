@@ -78,14 +78,15 @@ The code calculated unidimensionally along the axial length, based on the detect
 ```bash
  run power_density_sbu.m
 ```
-
-- Open MATLAB 2015 or greater
-- Read [filename.det] and Run
+- Change name file in code in power density
 ```bash
- run [filename]
+Import txt files power density result from pwd 
+fileID1 = fopen('filename_0.txt','w');
+fileID2 = fopen('filename_1.txt','w');
 ```
-## Read input filename with parameters design project fuel assembly
-- number of pins variable [number_pin]
+## Open MATLAB 2015 or greater
+ Read input filename with parameters design project fuel assembly
+ - number of pins variable [number_pin]
 - number of assembly variable [number_assembly]
 - number of tube guide variable [number_tg]
 - number of rods variable [number_rods]
@@ -112,6 +113,13 @@ The code calculated unidimensionally along the axial length, based on the detect
 - total core power [core_power]
 ```bash
  run [filename]
+```
+- Change local file in code in thermal or hydraulic
+```bash
+Import txt files power density result from pwd 
+file0 = fopen('filename_1.txt','w');
+PDZ1 = importdata('filename_1.txt');
+Z1 =  importdata('filename_0.txt');
 ```
 - Run in thermal code in command window of the MATLAB 
 ```bash
