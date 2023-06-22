@@ -16,8 +16,6 @@ provided by the power density can provide us with the temperature profile in the
 
  - [MATLAB](https://www.mathworks.com/products/matlab.html)
 
- - [Feasibility to Convert the NuScale SMR from UO2 to a Mixed (U, Th)O2 Core](https://www.scirp.org/journal/paperinformation.aspx?paperid=124163)
-
 ## Authors
 
 - [@diegomanoelgoncalves](https://www.github.com/diegomanoelgoncalves)
