@@ -2,6 +2,9 @@
 
 The power density distribution in a nuclear reactor can be calculated using the SERPENT code. About 97% of the recoverable fission energy is deposited directly in the fissile material. The power density is calculated by multiplying the energy released by fission by the fission reaction rate (Rf). The reaction rate is defined as the neutron flux multiplied by the cross-section. Once the total power is known, the program will provide us with the fission reaction rate throughout the reactor. By dividing the reactor into several equal volumes (meshes), we can simplify the calculation of power density in each of these.
 
+![nuscale_core_sbu_tf_800 c_mesh1](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/assets/114114828/8076a400-4d38-42ec-9e9d-837f48b32169)
+![nuscale_core_sbu_tf_800 c_mesh2](https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/assets/114114828/d58549f6-79be-41f2-a65a-11deea2189a9)
+
 # Anaysis thermal hydraulics
 
 Code for calculation thermal and hydraulics in fuel assembly in nuclear reactors. From the power density obtained by the SERPENT code in the process.
