@@ -59,10 +59,10 @@ The code calculated unidimensionally along the axial length, based on the detect
 - Correlation Gnielinski 
 - Convection fluid
 
-## Instalation
+## Requirements
 
-- Install MATLAB 2015+ or greater 
-- Install SERPENT.vtt
+- MATLAB 2015+ or greater 
+- SERPENT.vtt
     
 ## Running the tests
 - Open MATLAB 2015 or greater
