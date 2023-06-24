@@ -4,6 +4,10 @@ The power density distribution in a nuclear reactor can be calculated using the 
 
 <img src="https://github.com/diegomanoelgoncalves/analisys_thermal_hydraulic/assets/114114828/7f93dbaa-0d0a-44a2-9070-952a2e376551" width="200" />
 
+## References
+
+ - [SERPENT](http://serpent.vtt.fi/mediawiki/index.php/Input_syntax_manual#mat_.28material_definition.29)
+ - [SNOJ, L., RAVNIK, M. “Calculation of power density with MCNP in TRIGA reactor”, 2006.]
 # Anaysis thermal hydraulics
 
 Code for calculation thermal and hydraulics in fuel assembly in nuclear reactors. From the power density obtained by the SERPENT code in the process.
@@ -15,8 +19,9 @@ provided by the power density can provide us with the temperature profile in the
 ## References
 
  - [SERPENT](http://serpent.vtt.fi/mediawiki/index.php/Input_syntax_manual#mat_.28material_definition.29)
-
  - [MATLAB](https://www.mathworks.com/products/matlab.html)
+ - [Todreas 2011- Nuclear Systems Volume I: Thermal Hydraulic Fundamentals, Second Edition]
+ - [El-Waki 1971 - Nuclear heat transport Hardcover]
 
 ## Authors
 
